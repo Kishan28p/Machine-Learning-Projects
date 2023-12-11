@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-This Repository conatains Machine Learning projects
+This repository contains mini projects in machine learning with jupyter notebook and Colab.
