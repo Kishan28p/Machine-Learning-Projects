@@ -1,1 +1,3 @@
+## Sentiment Analysis on User Comments: A Naive Bayes Approach
 
+This project employs natural language processing and machine learning techniques to perform sentiment analysis on user comments. The implementation includes data preprocessing, sentiment scoring using VADER sentiment analysis, and the application of a Gaussian Naive Bayes classifier. The trained model achieves an accuracy of 93.51% in predicting sentiments (Positive, Negative, Neutral). The project provides a user-friendly interface for predicting sentiment on new text inputs, demonstrating the practical application of the developed model.
